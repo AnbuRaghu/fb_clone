@@ -1,0 +1,8 @@
+.sidebar {
+  position: sticky !important;
+  top: 80px !important;
+  
+  /* flex:0.33;  it's to allign center if content gets bigger*/
+  flex: 0.33;
+  padding: 25px 10px;
+}
